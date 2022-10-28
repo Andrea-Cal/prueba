@@ -1,0 +1,1 @@
+SELECT * FROM proyecto_integrador.categorias;
